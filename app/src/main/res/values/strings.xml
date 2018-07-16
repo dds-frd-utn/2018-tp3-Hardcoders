@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">dds_tp3</string>
+    <string name="title_activity_login">BANCO HARDCODERS</string>
+
+    <!-- Config strings-->
+    <string name="base_url">http://lsi.no-ip.org:7777/2018-Hardcoders-tp1/rest</string>
+    <!--<string name="base_url">http://192.168.0.16:8080/Hardcoders/rest</string>-->
+
+    <!-- Strings related to login -->
+    <string name="prompt_cuil">CUIL</string>
+    <string name="prompt_password">CONTRASEÑA</string>
+    <string name="action_sign_in_short">INGRESAR</string>
+    <string name="error_invalid_cuil">CUIL invalido</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="error_connection">Error de conexión</string>
+
+    <!-- Movements related strings -->
+    <string name="error_accounts">El cliente no posee cuenta</string>
+    <string name="error_movements">La cuenta no posee movimientos</string>
+    <string name="prompt_accounts">Cuenta</string>
+
+
+</resources>
